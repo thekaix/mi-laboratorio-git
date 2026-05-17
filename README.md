@@ -1,9 +1,9 @@
 # 🎓 Git & GitHub Version Control Workflow Lab
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" alt="Git" />
+  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
 </p>
 
 ## 📌 Project Overview
@@ -38,3 +38,57 @@ Through this lab, I have successfully put into practice the following architectu
                              ✔ Verified & Tested
                                    │
   [ main ]  🔄 git merge 🤹 Combined Vector ➔ 🚀 Production Ready
+```
+
+### 🎛️ Live Code Preview
+<details>
+<summary>⚡ <b>Click here to expand and preview the Python Lab Engine Architecture</b></summary>
+
+```python
+print('--- Calculadora de Laboratorio ---')
+
+def sumar(a, b):
+    return a + b
+
+def restar(a, b):
+    return a - b
+
+# Operational Runtime Demonstrations
+print("Resultado de 5 + 3:", sumar(5, 3))
+print("Resultado de 10 - 4:", restar(10, 4)
+```
+</details>
+---
+
+## 📊 Continuous Learning Ecosystem
+This project is an integrated node of my **Technical Portfolio & Laboratory Network**. I leverage these sandbox spaces to build high-performance foundations across my target domains:
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Target Domain</th>
+      <th align="left">Core Focus & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Analytics & Tech</b></td>
+      <td>Python Development • Automation Pipelines (n8n) • IBM Data Environments</td>
+    </tr>
+    <tr>
+      <td><b>Cybersecurity</b></td>
+      <td>Security Architectures • System Auditing (Splunk) • Virtual Infrastructure</td>
+    </tr>
+    <tr>
+      <td><b>Global Scaling</b></td>
+      <td>Strategic Technical Communication (Professional Working Proficiency English)</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+<p align="center">
+  🔒 <i>Constructed and maintained in my dedicated continuous learning environment.</i>
+</p>
+
+
